@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(220, 247, 247);
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    height: 2px;
+    width: 6%;
+    border-color: rgb(186, 184, 184);
+    border-width: 8px;
+}
+h1,h2{
+    color: rgb(17, 194, 194);
+    text-decoration: underline rgb(194, 192, 192);
+}
+.circular{
+    border-radius: 200cm;
+}
+img:hover{
+    background-color: rgb(4, 140, 140);
+}
